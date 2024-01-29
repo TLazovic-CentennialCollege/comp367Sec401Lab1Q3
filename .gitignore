@@ -1,0 +1,6 @@
+# matches any files and dirs with the name obj
+obj
+
+Properties
+
+appsettings.json
